@@ -75,7 +75,7 @@ class App extends React.Component {
               isLoggedin={auth.isLoggedin}
             />
             <Route component={Page404} />
-          </Switch>
+          </Switch>f
         </div>
       </Router>
     );
